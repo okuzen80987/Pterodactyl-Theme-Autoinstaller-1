@@ -442,8 +442,6 @@ EOF
 }
 # Main script
 display_welcome
-install_jq
-check_token
 
 while true; do
   clear
